@@ -1,0 +1,6 @@
+{
+  "name": "Music Streaming Application",
+  "description": "Modern, high-performance music streaming application with real-time playback, synced lyrics, EQ, and comprehensive system architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
